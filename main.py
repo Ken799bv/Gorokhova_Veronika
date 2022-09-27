@@ -46,7 +46,7 @@ print("you’re busy making other plans")
 a = 10
 b = 6
 
-print (a*b)\2
+print (a*b)\8
 
 
 num1 = 2
